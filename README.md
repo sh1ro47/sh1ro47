@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **Apache Spark**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **ravikantshrivas2001@gmail.com**
 
